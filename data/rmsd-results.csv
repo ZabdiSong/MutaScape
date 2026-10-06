@@ -1,0 +1,5 @@
+window,start,end,matched_CA,aligned_RMSD_A,raw_RMSD_A,method
+full,1,457,457,17.5122834977229,19.356253389257606,All matched C-alpha atoms; Kabsch least-squares rigid alignment within each inclusive residue window; no outlier rejection; coordinates in Å.
+wide,132,330,199,4.340945602967557,6.356682700495115,All matched C-alpha atoms; Kabsch least-squares rigid alignment within each inclusive residue window; no outlier rejection; coordinates in Å.
+local,182,280,99,0.3641304738963732,2.0781679771890773,All matched C-alpha atoms; Kabsch least-squares rigid alignment within each inclusive residue window; no outlier rejection; coordinates in Å.
+dnaDomain,159,252,94,0.2118223206536015,1.3531366791054131,All matched C-alpha atoms; Kabsch least-squares rigid alignment within each inclusive residue window; no outlier rejection; coordinates in Å.

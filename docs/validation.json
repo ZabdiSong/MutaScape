@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-06",
+  "browserChecks": 130,
+  "engineChecks": 73,
+  "alignmentChecks": 2,
+  "errors": [],
+  "coverage": [
+    "file:// offline",
+    "GitHub Pages project subpath",
+    "HTTP root",
+    "mobile 390px",
+    "actual molecular coordinates",
+    "all fitting windows",
+    "missing mutant handling",
+    "DNA geometry",
+    "four partner models",
+    "pressure board",
+    "snapshot persistence/exports",
+    "serial packet simulation",
+    "local download targets",
+    "actual touch mobile viewport 390\u00d7844",
+    "mock Web Serial reads/writes, firmware profiles and disconnect"
+  ],
+  "limitation": "Physical hardware not connected or tested.",
+  "additionalMobileAndMockSerialChecks": 21
+}

@@ -1,0 +1,119 @@
+{
+  "originalCount": 19,
+  "files": [
+    {
+      "originalName": "YuanPei PPT.pdf",
+      "packagePath": "assets/research/research-slides.pdf",
+      "bytes": 7966818,
+      "sha256": "ba4f1db34ad1aa25fd626db267f2e4ab3c173ed87c197b833f8a8f928acc1046"
+    },
+    {
+      "originalName": "FOXA2 S169P Variant Structural and Functional Implications in iPSC differentiation (1).pdf",
+      "packagePath": "assets/research/research-poster.pdf",
+      "bytes": 6534083,
+      "sha256": "5c9959a133d6a1965a04c91f22b46b555fc1cad0926b07bb372d232d8077c68b"
+    },
+    {
+      "originalName": "FOXA2 S169P Variant_ Structural and Functional Implications in iPSC Differentiation (1).pdf",
+      "packagePath": "assets/research/research-paper.pdf",
+      "bytes": 5606322,
+      "sha256": "8e14c4755a46f2e03a2c62323c1f1d65ca62e00184115f5005184ec76c8c563f"
+    },
+    {
+      "originalName": "f076bb2089a13a45d046fae828aae28.jpg",
+      "packagePath": "assets/photos/exhibition-poster.jpg",
+      "bytes": 1054909,
+      "sha256": "b38bc26e23f62b486890ae9c1102cd68ad3115f39b2193260a76ee48fd99db4c"
+    },
+    {
+      "originalName": "3b38616530df50edb2519bc0a8e57a6.jpg",
+      "packagePath": "assets/photos/pressure-board.jpg",
+      "bytes": 892039,
+      "sha256": "6496f09521c4f62d8347a6f275688ef7f4cf5d6418c5b0fa0caeb9db54cdd3ca"
+    },
+    {
+      "originalName": "foxa2_dna.cif",
+      "packagePath": "assets/structures/foxa2_dna.cif",
+      "bytes": 290623,
+      "sha256": "ab3f66ddd8ffe6756cf2ca1233f79a06a96b51eae71dba84f580cbcc4901f0b6"
+    },
+    {
+      "originalName": "foxa2_s169p.cif",
+      "packagePath": "assets/structures/foxa2_s169p.cif",
+      "bytes": 282174,
+      "sha256": "fb8863ea33447161ec1b81a0979b81d66c34a94d0f4aa588bebfd3e867f8c2a2"
+    },
+    {
+      "originalName": "foxa2_wt.cif",
+      "packagePath": "assets/structures/foxa2_wt.cif",
+      "bytes": 282098,
+      "sha256": "4bff2014a22527cb64261adebcfb308b3a7a0d3ca72c64c48d0b413ad50d05a7"
+    },
+    {
+      "originalName": "hnf1a.cif",
+      "packagePath": "assets/structures/hnf1a.cif",
+      "bytes": 114848,
+      "sha256": "895d46dcb56b236758954feb8498c2acfb45213fa77d9cda278606dd5fca4765"
+    },
+    {
+      "originalName": "otx2.cif",
+      "packagePath": "assets/structures/otx2.cif",
+      "bytes": 275297,
+      "sha256": "bdd9db0cf7ce34f25bfc94fc640177e152ae5335080c6e8f93c6e5ad03c90e19"
+    },
+    {
+      "originalName": "pdx1.cif",
+      "packagePath": "assets/structures/pdx1.cif",
+      "bytes": 261163,
+      "sha256": "c87fdb739adf0d151a536be3e90da04908fd323be0bb33434d6794765a3232b1"
+    },
+    {
+      "originalName": "sox17.cif",
+      "packagePath": "assets/structures/sox17.cif",
+      "bytes": 366570,
+      "sha256": "c0af148bb3012db687c4f26b269bc1a4bc9d71cfdf3aff72a61d0c3510ca57ae"
+    },
+    {
+      "originalName": "Untitled-1.py",
+      "packagePath": "original-code/Untitled-1.py",
+      "bytes": 76800,
+      "sha256": "6156f52a1e615263b351f7382021d8ac76aa73349e869e87e6186783812b66ea"
+    },
+    {
+      "originalName": "test.py",
+      "packagePath": "original-code/test.py",
+      "bytes": 29035,
+      "sha256": "f27616efeddab8efe175ac62f43d0b8307591fcf97e89cbb2d0182c5c988b868"
+    },
+    {
+      "originalName": "microbit_makecode.py",
+      "packagePath": "original-code/microbit_makecode.py",
+      "bytes": 5693,
+      "sha256": "488a1ac86d51bde15172ee088425916a26842ff8cd94e21451f5279e80c4a2b1"
+    },
+    {
+      "originalName": "microbit_muta_controller.py",
+      "packagePath": "original-code/microbit_muta_controller.py",
+      "bytes": 2320,
+      "sha256": "99229e6e362f8da5617c6285c9ccb63048e6d4a785f8b6f6d8cedfeb20eda607"
+    },
+    {
+      "originalName": "microbit_mutascape.py",
+      "packagePath": "original-code/microbit_mutascape.py",
+      "bytes": 4403,
+      "sha256": "db7455e85c5defc5c8326da0d212b6ad0be67d7689c579e5dbaa90df05b4596e"
+    },
+    {
+      "originalName": "microbit_test.py",
+      "packagePath": "original-code/microbit_test.py",
+      "bytes": 153,
+      "sha256": "b5a9ee12c0f16edba0f29a90fdc08dd3c66e3ae8c6b576eb87b9cb6fc37e67f5"
+    },
+    {
+      "originalName": "moltest.py",
+      "packagePath": "original-code/moltest.py",
+      "bytes": 316,
+      "sha256": "7a39f0e932a3c1cd424033d9adacafd747e216f798dce11ad3cf99a680220d8b"
+    }
+  ]
+}
